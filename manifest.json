@@ -1,6 +1,6 @@
 {
-    "name": "per3",
-    "short_name": "per3",
+    "name": "bingify",
+    "short_name": "bingify",
     "icons": [{
         "src": "/logo_192_by_192.png",
         "sizes": "192x192",
